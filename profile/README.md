@@ -27,7 +27,7 @@ We welcome contributions from the community to help us make our software even be
 Have questions, suggestions, or just want to say hello? Reach out to us:
 
 - **Email:** contact@tropicoss.com
-**Twitter:** [@TropicOSS](https://twitter.com/TropicOSS)
+- **Twitter:** [@TropicOSS](https://twitter.com/TropicOSS)
 
 Join us on this exciting journey as we strive to enhance the quality of life through innovative software tools. Thank you for being a part of Tropic OSS!
 
